@@ -40,7 +40,7 @@ function playerPlay() {
                 message="Selection incorrect. ";
                 break;
     }
-    }while(goodPlay);
+    }while(badPlay);
     return playValue
 }
 
